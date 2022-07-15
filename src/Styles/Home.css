@@ -1,0 +1,21 @@
+.wrapper {
+  margin: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  font-size: 50px;
+  font-family: Gabriola;
+  text-align: center;
+}
+
+.label {
+  text-align: center;
+  margin: 30px;
+  font-family: cursive;
+}
+.addbtn {
+  text-align: center;
+}
